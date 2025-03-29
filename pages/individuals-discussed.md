@@ -1,5 +1,5 @@
 ---
 title: Individuals Discussed
-layout: subjects
+layout: cloud
 permalink: /people.html
 ---
